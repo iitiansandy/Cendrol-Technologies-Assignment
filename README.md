@@ -24,5 +24,5 @@
 
 Note: Once you are done with the assignment, host it on GitHub(free domain) and share the
 public ink. Done within 24 hours. </br></br>
-Cendrol Technologies Pvt Ltd </br>
-Build. Track.
+<strong>Cendrol Technologies Pvt Ltd</strong> </br>
+<strong>Build. Track.</strong>
